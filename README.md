@@ -20,4 +20,4 @@ Em relação ao histórico de negociação, pensei em criar outra tabela com o i
 
 No final o diagrama de classes ficou assim.
 
-![image](https://user-images.githubusercontent.com/67595193/133419724-ce358f51-335c-4102-97c6-bcfde04559ce.png)
+![image](https://user-images.githubusercontent.com/67595193/133421302-8200059c-14b9-445a-be06-f317427bdede.png)
