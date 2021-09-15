@@ -10,7 +10,7 @@ A documentação da API foi feita com o Swagger, e encontra-se disponível em ht
 ## Considerações
 A principio pensei em ter uma Classe Resource e as classes Employee e Material herdando dela, porém estava tendo alguns problemas com essa abordagem então decidi fazer apenas a classe Resource colocando um campo Enumerado para informar o tipo do Resource.
 
-Foi feio a implementação da maioria dos requisitos com exceção do histórico da negocição, e média de recursos por hospital.
+Foi feio a implementação da maioria dos requisitos com exceção do histórico da negocição(o intercâmbio de recursos foi implementado), e média de recursos por hospital.
 
 Tive algumas dificuldades com esses dois requisitos e devido ao tempo não consegui terminar a implementação.
 
